@@ -1,0 +1,11 @@
+td {font-family:verdana, sans-serif; font-size:7pt; font-weight:normal; align:right;}
+a:visited{color: #666666; text-decoration: none}
+a:link {color: #000000; text-decoration: none}
+a:fick {color: #0000ff; text-decoration: underline}
+a:active {color: #ff0000; text-decoration: none}
+img {text-decoration: none; border-style: none}
+.cu12 {font-family: "Courier New", Courier, mono; font-size: +1px}
+red { font-family:verdana, sans-serif; font-size:7pt; font-weight:normal; align:right; ; color: #FF0000; text-decoration: none}
+.red { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #FF0000}
+.blue { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #0000FF}
+.norm { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #000000}
